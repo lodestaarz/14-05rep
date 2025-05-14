@@ -27,6 +27,9 @@
 }
 
 .imgajustada {
-      width: 300px;
-      height: auto;
+    height: 250x875;
+    width: 400px;    
+    alt: 45x45;
+  
+  /* height="250x875" e width="400px" alt="45x45"> */
 }
