@@ -26,3 +26,7 @@
   text-align: justify; /* Justifica o texto */
 }
 
+.imgajustada {
+      width: 300px;
+      height: auto;
+}
