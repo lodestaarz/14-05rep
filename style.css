@@ -1,12 +1,11 @@
-#h1 {
-    line-height: 1.6;
-    color: brown;
-    width: auto;
+h1 {
+  font-family: 'Arial', sans-serif; 
+  color: darkblue; 
+  line-height: 1.6; 
 }
 
-#p {
-    line-height: 1.6;
-    color: aqua;
-    width: auto;
-
+p {
+  font-family: 'Verdana', sans-serif;
+  color: #333333;
+  line-height: 1.8;
 }
