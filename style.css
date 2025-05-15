@@ -16,7 +16,7 @@
   justify-content: flex-start; /* Alinha à esquerda */
 }
 
-
+/* Estilização do primeiro parágrafo (Texto 1) */
 .texto-destaque {
   color: #2C3E50; /* Cor forte para o texto (um tom de azul escuro) */
   font-family: 'Arial', sans-serif; /* Fonte Arial */
@@ -26,6 +26,7 @@
   text-align: justify; /* Justifica o texto */
 }
 
+/* Estilização da primeira imagem */
 .imagem-destaque {
   width: 350px; /* Aumenta o tamanho da imagem */
   height: auto;
