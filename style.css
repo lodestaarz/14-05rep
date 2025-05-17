@@ -28,7 +28,7 @@
 
 /* Estilização da primeira imagem */
 .imagem-destaque {
-  width: 350px; /* Aumenta o tamanho da imagem */
+  width: 500px; /* Aumenta o tamanho da imagem */
   height: auto;
   border-radius: 8px;
 }
