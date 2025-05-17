@@ -22,13 +22,13 @@
   font-family: 'Arial', sans-serif; /* Fonte Arial */
   font-size: 18px;
   line-height: 1.6;
-  max-width: 500px; /* Limita a largura do parágrafo */
+  max-width: 350px; /* Limita a largura do parágrafo */
   text-align: justify; /* Justifica o texto */
 }
 
 /* Estilização da primeira imagem */
 .imagem-destaque {
-  width: 500px; /* Aumenta o tamanho da imagem */
+  width: 350px; /* Aumenta o tamanho da imagem */
   height: auto;
   border-radius: 8px;
 }
